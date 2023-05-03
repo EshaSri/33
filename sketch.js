@@ -66,7 +66,7 @@ if(isMobile){
 }
 else{
   canW=windowWidth
-  canH=windoeHeight
+  canH=windowHeight
 }
   createCanvas(canW,canH);
   
